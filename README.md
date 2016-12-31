@@ -1,5 +1,5 @@
-# Project Altis
-The official repo for Toontown Empire, a new Toontown game based on Disney's Toontown Online.
+# Toontown Empire
+The official repo for Toontown Empire, a now dead :( Toontown game based on Disney's Toontown Online.
 
 # Leads:
  
